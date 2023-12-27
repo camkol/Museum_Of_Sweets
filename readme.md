@@ -1,4 +1,4 @@
-# Museum of Candy
+# Museum of Sweets
 
 ## Components
 
@@ -6,3 +6,5 @@
 2. CSS
 
 ## Notes
+
+-Name changed
