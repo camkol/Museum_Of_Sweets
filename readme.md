@@ -3,12 +3,12 @@
 ## Components
 
 1. HTML
-   -Bootstrap
+   - Bootstrap
 1. CSS
-   -SASS
+   - SASS
 
 ## Notes
 
--Name changed
--Added SASS
--Modified contents to personal vision
+- Name changed
+- Added SASS
+- Modified contents to personal vision
